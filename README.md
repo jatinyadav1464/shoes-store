@@ -1,6 +1,6 @@
 ## 🚀 Live Demo
 
-Visit the live website: 
+Visit the live website: (https://jatinyadav1464.github.io/shoes-store/)
 
 
 # StepStyle Shoes Store 🛍️👟
@@ -18,9 +18,6 @@ A modern, responsive e-commerce website for a shoe store built with HTML, CSS, a
 - **Modern UI/UX** - Clean design with smooth animations and hover effects
 - **Interactive Elements** - Wishlist functionality and product interactions
 
-## 🚀 Live Demo
-
-Visit the live website: [https://yourusername.github.io](https://yourusername.github.io)
 
 ## 🛠️ Technologies Used
 
